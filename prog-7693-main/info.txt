@@ -1,0 +1,9 @@
+ps1 - cryptografia playfair, vigenerova, bit chaos, sifra bmp
+ps2 - k(2048) game
+ps3 - (not done)
+ps4 - BMP manipulacia...
+ps5 - (not done)
+ps6 - mastermind
+
+https://kurzy.kpi.fei.tuke.sk/pvjc/2023/
+may change...
